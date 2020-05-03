@@ -1,0 +1,115 @@
+{
+  "analysis": [
+    {
+      "id": 1,
+      "title": "Ticket 1",
+      "value": 1233,
+      "icon": "https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/13965362071536572518-512.png"
+    },
+    {
+      "id": 2,
+      "title": "Ticket 2",
+      "value": 0.012,
+      "icon": "https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/19189532551535007646-512.png"
+    },
+    {
+      "id": 3,
+      "title": "Ticket 3",
+      "value": 4.32,
+      "icon": "https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/13965362071536572518-512.png"
+    }
+  ],
+  "profiles": {
+    "id": 1,
+    "name": "Zoro",
+    "title": "Strawhat crew",
+    "roles": [
+      "Developer",
+      "TA"
+    ],
+    "email": "abc@gmail.com",
+    "phone": "0904752252",
+    "bio": "biotest",
+    "avatar": "https://www.shutterstock.com/image-photo/businesswoman-pressing-face-emoticon-on-keyboard-1161177175"
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "subject": "Ticket 1 request",
+      "requestedDate": "01/13/2010",
+      "updatedDate": "01/14/2010",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "subject": "Ticket 2 request",
+      "requestedDate": "02/11/2011",
+      "updatedDate": "02/16/2011",
+      "status": "resolved"
+    },
+    {
+      "id": 3,
+      "subject": "Ticket 3 request",
+      "requestedDate": "03/03/2012",
+      "updatedDate": "03/15/2012",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "subject": "Ticket 4 request",
+      "requestedDate": "04/23/2013",
+      "updatedDate": "04/27/2013",
+      "status": "cancelled"
+    },
+    {
+      "id": 5,
+      "subject": "Ticket 5 request",
+      "requestedDate": "05/08/2014",
+      "updatedDate": "05/11/2014",
+      "status": "resolved"
+    },
+    {
+      "id": 6,
+      "subject": "Ticket 6 request",
+      "requestedDate": "06/13/2015",
+      "updatedDate": "06/14/2015",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "subject": "Ticket 7 request",
+      "requestedDate": "07/13/2016",
+      "updatedDate": "07/19/2016",
+      "status": "inprogress"
+    },
+    {
+      "id": 8,
+      "subject": "Ticket 8 request",
+      "requestedDate": "08/01/2017",
+      "updatedDate": "08/20/2017",
+      "status": "inprogress"
+    },
+    {
+      "id": 9,
+      "subject": "Ticket 9 request",
+      "requestedDate": "09/13/2018",
+      "updatedDate": "09/14/2018",
+      "status": "cancelled"
+    },
+    {
+      "id": 10,
+      "subject": "Ticket 10 request",
+      "requestedDate": "10/13/2019",
+      "updatedDate": "10/14/2019",
+      "status": "resolved"
+    },
+    {
+      "subject": "tanbc091",
+      "requestedDate": 1588333002628,
+      "updatedDate": "2020-05-03T11:36:45.533Z",
+      "status": "active",
+      "description": "tanbc091tanbc091tanbc091tanbc091tanbc091",
+      "id": 11
+    }
+  ]
+}
